@@ -1,2 +1,1 @@
-# Otravez-sopa
-mi reposito de prueba para mi prepcourse
+este es un proyecto de prepcourse para clonar reposito de github a mi compu
